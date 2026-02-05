@@ -1,11 +1,11 @@
 {
     "offset": 46,
     "partition": 2,
-    "timestamp": 1765364759219,
+    "timestamp": 1765448138,
     "key": null,
     "value": {
       "version": "2.D.V03",
-      "id": "b46ff14b-a4de-4cfe-bc0f-6338fd91970c",
+      "id": "4f35964c-8900-4839-9b7c-eb14b418951e",
       "entity": null,
       "category": [
         "ext-value"
@@ -17,7 +17,7 @@
       "priority": null,
       "confidence": null,
       "note": null,
-      "createTime": "2025-12-10T11:05:59z",
+      "createTime": "2025-12-11T10:15:38Z",
       "startTime": null,
       "endTime": null,
       "altNames": null,
@@ -45,7 +45,7 @@
       "target": [
         {
           "note": "Target of detection",
-          "geoLocation": "37.933687, 23.745275",
+          "geoLocation": "37.933687, 23.745275", 
           "attachment": [
             "Value (mV)",
             "Compounds Detected"
@@ -63,8 +63,10 @@
           "name": "Compounds Detected",
           "contentType": "Array",
           "content": [
+            "Acetone",
             "Di-n-butyl ether",
             "Ethanol",
+            "Hexane",
             "Isobutyl acetate",
             "Isopropyl alcohol",
             "Methyl acetate"
