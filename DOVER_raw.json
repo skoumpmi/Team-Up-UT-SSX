@@ -1,0 +1,75 @@
+{
+    "offset": 46,
+    "partition": 2,
+    "timestamp": 1765364759219,
+    "key": null,
+    "value": {
+      "version": "2.D.V03",
+      "id": "b46ff14b-a4de-4cfe-bc0f-6338fd91970c",
+      "entity": null,
+      "category": [
+        "ext-value"
+      ],
+      "ext-Category": "Chemical.Detected",
+      "cause": null,
+      "description": "Chemical Detected",
+      "status": null,
+      "priority": null,
+      "confidence": null,
+      "note": null,
+      "createTime": "2025-12-10T11:05:59z",
+      "startTime": null,
+      "endTime": null,
+      "altNames": null,
+      "altCategory": null,
+      "ref": null,
+      "correlID": null,
+      "aggrCondition": null,
+      "predID": null,
+      "relID": null,
+      "analyzer": {
+        "ip": "192.168.100.1",
+        "name": "T4I",
+        "type": [
+          "Physical"
+        ],
+        "data": [
+          "Particles"
+        ],
+        "method": [
+          "Threshold"
+        ]
+      },
+      "sensor": null,
+      "source": null,
+      "target": [
+        {
+          "note": "Target of detection",
+          "geoLocation": "37.933687, 23.745275",
+          "attachment": [
+            "Value (mV)",
+            "Compounds Detected"
+          ]
+        }
+      ],
+      "vector": null,
+      "attachment": [
+        {
+          "name": "Value (mV)",
+          "contentType": "Integer",
+          "content": "3000"
+        },
+        {
+          "name": "Compounds Detected",
+          "contentType": "Array",
+          "content": [
+            "Di-n-butyl ether",
+            "Ethanol",
+            "Isobutyl acetate",
+            "Isopropyl alcohol",
+            "Methyl acetate"
+          ]
+        }
+      ]
+    }
+  }
