@@ -1,0 +1,57 @@
+{
+  "alert": {
+    "identifier": 4,
+    "sender": "H-BRS",
+    "sent": "2026-01-16T09:50:27+01:00",
+    "status": "Exercise",
+    "msgType": "Alert",
+    "scope": "Restricted",
+    "info": [
+      {
+        "category": [
+          "CBRNE"
+        ],
+        "event": "explosion",
+        "urgency": "Immediate",
+        "certainty": "Likely",
+        "parameter": [
+          {
+            "valueName": "duration_heater",
+            "value": 1.5
+          },
+          {
+            "valueName": " rate",
+            "value": 100000
+          },
+          {
+            "valueName": "power",
+            "value": 4.8
+          },
+          {
+            "valueName": "classification",
+            "value": "primary"
+          },
+          {
+            "valueName": "explosive",
+            "value": 1
+          },
+          {
+            "valueName": "sampleID",
+            "value": null
+          }
+        ],
+        "area": [
+          {
+            "areaDesc": null
+          }
+        ],
+        "resource": [
+          {
+            "resourceDesc": null,
+            "mimeType": null
+          }
+        ]
+      }
+    ]
+  }
+}
