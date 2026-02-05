@@ -17,7 +17,7 @@
         "description": "Chemical Detected",
         "area": [
           {
-            "areaDesc": null,
+            "areaDesc": "See the latitude and longtitude of the area",
             "circle": ["37.933687,23.745275 0.0"]
           }
         ],
@@ -55,4 +55,4 @@
       }
     ]
   }
-}
+
