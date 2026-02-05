@@ -19,16 +19,16 @@
         "area": [
           {
             "areaDesc": "Point location near 37.97842566269701,23.78356234277937",
-            "circle": ["37.97842566269701,23.78356234277937 0.0"]
+            "circle": ["-33.59,-163.46 0.0"]
           }
         ],
         "parameter": [
           { "valueName": "message_id", "value": "kf561c25-3fc1-48f5-8820-fe447f0cb910" },
           { "valueName": "id", "value": "BGP-1" },
-          { "valueName": "s-1 Beta", "value": 2 },
-          { "valueName": "s-1 gamma", "value": 20 },
-          { "valueName": "Beta Alarm", "value": "N" },
-          { "valueName": "gamma alarm", "value": "N" }
+          { "valueName": "s-1 Beta", "value": 3.68 },
+          { "valueName": "s-1 gamma", "value": 3.19},
+          { "valueName": "Beta Alarm", "value": "Y" },
+          { "valueName": "gamma alarm", "value": "Y" }
         ]
       }
     ]
