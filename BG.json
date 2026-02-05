@@ -2,7 +2,7 @@
   "alert": {
     "identifier": "TEAMUP-CEA-BETA-GAMMA",
     "sender": "BETA-GAMMA Probe",
-    "sent": "2024-12-20T15:53:45.100Z",
+    "sent": "2026-02-18T05:31:13Z",
     "status": "Actual",
     "msgType": "Alert",
     "scope": "Restricted",
