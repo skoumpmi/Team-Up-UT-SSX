@@ -1,0 +1,72 @@
+{
+    "offset": 1,
+    "partition": 0,
+    "timestamp": 1765291724973,
+    "key": null,
+    "value": {
+      "samples": [
+        {
+          "sample_name": "Sample_001",
+          "test_results": [
+            {
+              "test": "Anthrax",
+              "value": 150.5,
+              "result": "Positive"
+            },
+            {
+              "test": "Cholera",
+              "value": 45.2,
+              "result": "Negative"
+            },
+            {
+              "test": "Influenza A",
+              "value": 78.9,
+              "result": "Negative"
+            },
+            {
+              "test": "Influenza B",
+              "value": 23.4,
+              "result": "Negative"
+            },
+            {
+              "test": "Dengue",
+              "value": 12.1,
+              "result": "Negative"
+            },
+            {
+              "test": "Zika",
+              "value": 89.6,
+              "result": "Negative"
+            },
+            {
+              "test": "RSV A/B",
+              "value": 34.7,
+              "result": "Negative"
+            },
+            {
+              "test": "SARS-CoV2",
+              "value": 67.3,
+              "result": "Negative"
+            },
+            {
+              "test": "Yellow Fever",
+              "value": 91.0,
+              "result": "Negative"
+            },
+            {
+              "test": "Q Fever",
+              "value": 15.8,
+              "result": "Negative"
+            },
+            {
+              "test": "Ebola",
+              "value": 56.4,
+              "result": "Negative"
+            },
+            {
+              "test": "Plague",
+              "value": 29.1,
+              "result": "Negative"
+            }
+          ]
+        }]}}
