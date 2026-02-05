@@ -1,0 +1,49 @@
+{
+	"version": "2.D.V03",
+	"id": "de35d8fd-2b5f-404f-a093-e033254f492e",
+	"entity": null,
+	"category": [
+		"ext-value"
+	],
+	"ext-Category": "Analysis.End",
+	"cause": null,
+	"description": "No Chemichal Detected",
+	"status": null,
+	"priority": null,
+	"confidence": null,
+	"note": null,
+	"createTime": "2026-02-05T08:57:26z",
+	"startTime": null,
+	"endTime": null,
+	"altNames": null,
+	"altCategory": null,
+	"ref": null,
+	"correlID": null,
+	"aggrCondition": null,
+	"predID": null,
+	"relID": null,
+	"analyzer": {
+		"ip": "192.168.100.1",
+		"name": "T4I",
+		"type": [
+			"Physical"
+		],
+		"data": [
+			"Particles"
+		],
+		"method": [
+			"Threshold"
+		]
+	},
+	"sensor": null,
+	"source": null,
+	"target": [
+		{
+			"note": "Target of detection",
+			"geoLocation": "37.933687, 23.745275",
+			"attachment": null
+		}
+	],
+	"vector": null,
+	"attachment": null
+}
