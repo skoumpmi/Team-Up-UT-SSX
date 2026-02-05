@@ -1,0 +1,36 @@
+{
+  "alert": {
+    "identifier": "TEAMUP-CEA-BETA-GAMMA",
+    "sender": "BETA-GAMMA Probe",
+    "sent": "2024-12-20T15:53:45.100Z",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Restricted",
+    "restriction": "For authorized recipients only",
+    "code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+    "info": [
+      {
+        "category": ["CBRNE"],
+        "event": "Radiological",
+        "urgency": "Immediate",
+        "severity": "Severe",
+        "certainty": "Likely",
+        "description": "Radiological Detected",
+        "area": [
+          {
+            "areaDesc": "Point location near 37.97842566269701,23.78356234277937",
+            "circle": ["37.97842566269701,23.78356234277937 0.0"]
+          }
+        ],
+        "parameter": [
+          { "valueName": "message_id", "value": "kf561c25-3fc1-48f5-8820-fe447f0cb910" },
+          { "valueName": "id", "value": "BGP-1" },
+          { "valueName": "s-1 Beta", "value": 2 },
+          { "valueName": "s-1 gamma", "value": 20 },
+          { "valueName": "Beta Alarm", "value": "N" },
+          { "valueName": "gamma alarm", "value": "N" }
+        ]
+      }
+    ]
+  }
+}
