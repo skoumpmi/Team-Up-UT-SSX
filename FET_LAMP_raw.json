@@ -1,0 +1,12 @@
+{
+    "offset": 105,
+    "partition": 0,
+    "timestamp": 1765447013974,
+    "key": null,
+    "value": {
+      "device_name": "FET LAMP",
+      "sample_name": "Table",
+      "target": "Anthracis",
+      "result": "positive"
+    }
+  }
