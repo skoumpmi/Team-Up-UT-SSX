@@ -1,0 +1,49 @@
+{
+  "alert": {
+    "identifier": "de35d8fd-2b5f-404f-a093-e033254f492e",
+    "sender": "T4I",
+    "sent": "2026-02-05T08:57:26Z",
+    "status": "Actual",
+    "msgType": "Alert",
+    "scope": "Public",
+    "code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+    "info": [
+      {
+        "category": ["CBRNE"],
+        "event": "Chemical Analysis End",
+        "urgency": "Past",
+        "severity": "Minor",
+        "certainty": "Observed",
+        "description": "No Chemical Detected",
+        "area": [
+          {
+            "areaDesc": "See the latitude and longtitude of the area",
+            "circle": ["37.933687,23.745275 0.0"]
+          }
+        ],
+        "parameter": [
+          { "valueName": "version", "value": "2.D.V03" },
+          { "valueName": "ext-Category", "value": "Analysis.End" },
+          { "valueName": "ip", "value": "192.168.100.1" },
+          { "valueName": "name", "value": "T4I" },
+          { "valueName": "type", "value": "Physical" },
+          { "valueName": "data", "value": "Particles" },
+          { "valueName": "method", "value": "Threshold" },
+          { "valueName": "note_detail", "value": "Target of detection" },
+          {
+            "valueName": "measurement",
+            "value": { "name": "Value (mV)", "contentType": "Integer", "content": 0 }
+          },
+          {
+            "valueName": "compoundsDetected",
+            "value": {
+              "name": "Compounds Detected",
+              "contentType": "Array",
+              "content": []
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
