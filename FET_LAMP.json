@@ -1,0 +1,36 @@
+{
+  "alert": {
+    "identifier": "FET-LAMP-PROD-2146365-2004781",
+    "sender": "FET-LAMP",
+    "sent": "2025-12-11T10:15:38Z",
+    "status": "Actual",
+    "msgType": "Alert",
+	"scope": "Restricted",
+    "code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+    "info": [
+      {
+        "category": ["CBRNE"],
+        "event": "Biological",
+        "urgency": "Immediate",
+        "severity": "Severe",
+        "certainty": "Likely",
+        "description": "Biological Detected",
+        "area": [
+          {
+            "areaDesc": null,
+            "circle": ["37.933687,23.745275 0.0"]
+          }
+        ],
+        "parameter": [
+          { "valueName": "offset", "value": 105 },
+          { "valueName": "partition", "value": "0" },
+          { "valueName": "timestamp", "value": 1765447013974 },
+          { "valueName": "device_name", "value": "FET LAMP" },
+          { "valueName": "sample_name", "value": "Table" },
+          { "valueName": "target", "value": "Anthracis" },
+          { "valueName": "result", "value": "positive" }
+        ]
+      }
+    ]
+  }
+}
