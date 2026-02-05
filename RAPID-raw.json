@@ -1,0 +1,7 @@
+{
+    "offset": 20,
+    "partition": 0,
+    "timestamp": 1765443618604,
+    "key": null,
+    "value": "{\"duration\": 0.2, \"rate\": 100000, \"power\": 38.0, \"duration_heater\": 0.2, \"id\": null, \"explosive\": 1}"
+  }
