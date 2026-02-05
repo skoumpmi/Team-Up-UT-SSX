@@ -1,0 +1,83 @@
+{
+  "alert": {
+    "identifier": "BP-LAMP-PROD-2146365-2004781",
+    "sender": "BP-LAMP",
+    "sent": "2025-12-11T10:15:38Z",
+	"scope": "Restricted",
+    "status": "Actual",
+    "msgType": "Alert",
+	"scope": "Restricted",
+    "code": "urn:oasis:names:tc:emergency:cap:1.2:profile:CAP-AU:1.0",
+    "info": [
+      {
+        "category": ["CBRNE"],
+        "event": "Biological",
+        "urgency": "Immediate",
+        "severity": "Severe",
+        "certainty": "Likely",
+        "description": "Biological Detected",
+        "area": [
+          {
+            "areaDesc": null,
+            "circle": ["37.933687,23.745275 0.0"]
+          }
+        ],
+        "parameter": [
+          { "valueName": "offset", "value": 1 },
+          { "valueName": "partition", "value": "0" },
+          { "valueName": "timestamp", "value": 1765291724973 },
+          { "valueName": "sample_name", "value": "Sample_001" },
+ 
+          {
+            "valueName": "test_results",
+            "value": { "test": "Anthrax", "value": 150.5, "result": "Positive" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Cholera", "value": 45.2, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Influenza A", "value": 78.9, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Influenza B", "value": 23.4, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Dengue", "value": 12.1, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Zika", "value": 89.6, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "RSV A/B", "value": 34.7, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "SARS-CoV2", "value": 67.3, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Yellow Fever", "value": 91.0, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Q Fever", "value": 15.8, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Ebola", "value": 56.4, "result": "Negative" }
+          },
+          {
+            "valueName": "test_results",
+            "value": { "test": "Plague", "value": 29.1, "result": "Negative" }
+          }
+        ]
+      }
+    ]
+  }
+}
