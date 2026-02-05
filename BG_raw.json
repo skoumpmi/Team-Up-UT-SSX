@@ -1,0 +1,13 @@
+{
+    "offset": 13472,
+    "partition": 0,
+    "timestamp": 1766035873464,
+    "key": null,
+    "value": {
+      "id": "BGP-TEST-5",
+      "latitude": -33.59,
+      "longitude": -163.46,
+      "Beta": 3.68,
+      "Gamma": 3.19
+    }
+  }
